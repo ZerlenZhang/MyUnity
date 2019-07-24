@@ -1,5 +1,5 @@
 # 仿Unity的OpenGL项目
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/JarkZhang/Opengl/blob/master/Image_Info/GD0_%5B%25NCS%40O%5D5J%24J4)5FD%602.png)
 
 ## 已完成功能
 
